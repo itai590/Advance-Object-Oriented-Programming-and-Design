@@ -1,8 +1,10 @@
 # Advance Object Oriented Programming and Design (Java)
+Foundations of Computer Science using Java programming language.
+Emphasizing the Algorithmic approach as the basis of Computer Science and
+Software Engineering. 
 
 
-SE sophomore first semester course.
-
+Design File Systems, Collections, Design Patterns, Multi Treading Systems.
 The repository include:
 
 * 3 classwork:
